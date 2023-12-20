@@ -1,2 +1,3 @@
 # apnacollege-demo
-this my first git repository
+This my first git repository.
+Author- Hemant singh pipchanot 
